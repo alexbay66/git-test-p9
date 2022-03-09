@@ -2,6 +2,10 @@
 
 ce projet est un test d'utilisation de git.
 
+## prerequis
+
+- git
+
 ## install
 
 git clone git@github.com:alexbay66/git-test-p9.git
